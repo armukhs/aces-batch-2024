@@ -1,0 +1,11 @@
+TEST...
+TABLE IDS
+admins: 1
+assessors: 1
+orgs: 11
+tools: ''
+slots: ''
+batches: 101
+groups: [batch_id-counter]
+persons: [batch_id-counter]
+groupings: N/A
